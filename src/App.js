@@ -1,5 +1,5 @@
 import './App.css';
-import KanbanBoard from './components/KanbanBoard';
+import KanbanBoard from './components/KanbanBoard/KanbanBoard';
 import { closestCorners, DndContext } from '@dnd-kit/core';
 
 function App() {
